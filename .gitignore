@@ -1,0 +1,6 @@
+.env
+supermarket.db
+__pycache__/
+*.pyc
+invoice.pdf
+*.pptx
